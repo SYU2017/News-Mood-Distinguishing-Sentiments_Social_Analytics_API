@@ -1,5 +1,5 @@
 
-# Unit 7 | Assignment - Distinguishing Sentiments
+# Assignment - Distinguishing Sentiments
 ## News Mood
 
 From the sentiment analysis results with the five media tweets on November 5,2017, we can note that:
